@@ -1,5 +1,7 @@
 # hrdness
 
+**English** | [日本語](README.ja.md)
+
 Estimate **HRDness** (homologous-recombination-deficiency-like expression) in high-grade serous ovarian carcinoma (HGSOC)
 from gene expression, using the 249-gene TCGA-OV HRDness signature.
 
