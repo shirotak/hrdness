@@ -149,6 +149,12 @@ If you use this tool, please cite the signature paper:
 > Prognostic relevance of HRDness gene expression signature in ovarian high-grade serous carcinoma; JGOG3025-TR2 study.
 > *Br J Cancer* 2023;128(6):1095–1104. doi:[10.1038/s41416-022-02122-9](https://doi.org/10.1038/s41416-022-02122-9)
 
+## AI assistance
+
+This software was developed with the assistance of Claude (Anthropic) through Claude Code, including code writing, evaluation scripts and
+documentation drafting. The author (Shiro Takamatsu) directed the work, made the design decisions, and is responsible for the released content.
+Commits made with Claude's assistance carry a `Co-Authored-By` trailer.
+
 ## License
 
 **Academic / non-commercial use only.** The code is released under the
