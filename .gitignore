@@ -1,0 +1,21 @@
+# --- 公開しない: 患者関連・外部 cohort・解析途中の出力 ---
+data/expression/
+data/external_eval/
+results/
+figures/
+docs/
+
+# --- 公開しない: ローカル作業用 (絶対パス・未公開 cohort 名を含む) ---
+CLAUDE.md
+AGENTS.md
+# scripts/: 評価・開発用。個人環境の絶対パスと非公開データに依存
+scripts/
+
+# --- ツールに不要 (Agilent は未対応) ---
+data/reference_TCGA/TCGA_OV_Agilent_249genes.tsv
+
+# --- その他 ---
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
